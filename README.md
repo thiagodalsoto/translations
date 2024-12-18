@@ -1,6 +1,20 @@
-# Sunny Translations
+# SunnyCapturer Translations
 
-Sunny Screenshot‘s translations `*.ts` files
+SunnyCapturer translations `*.ts` files
+
+
+
+<a href="https://hosted.weblate.org/engage/sunnycapturer/">
+<img src="https://hosted.weblate.org/widget/sunnycapturer/sunnycapturer/open-graph.png" alt="翻译状态" />
+</a>
+
+
+
+<a href="https://hosted.weblate.org/engage/sunnycapturer/">
+<img src="https://hosted.weblate.org/widget/sunnycapturer/sunnycapturer/multi-auto.svg" alt="翻译状态" />
+</a>
+
+
 
 
 
