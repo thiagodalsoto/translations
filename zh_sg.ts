@@ -54,7 +54,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Image (Ctrl+7) (I)</source>
+        <source>Image (Ctrl+7)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -154,6 +154,10 @@
     </message>
     <message>
         <source>Switch the color format of the magnifier to RGB/HEX/FLT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move the selected rectangular box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -391,7 +395,7 @@ Reason Phrase: </source>
 <context>
     <name>QObject</name>
     <message>
-        <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
+        <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -978,10 +982,6 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Toggle Previews</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quick Look</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

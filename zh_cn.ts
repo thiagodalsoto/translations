@@ -58,10 +58,6 @@
         <translation>文本 (Ctrl+6) (T)</translation>
     </message>
     <message>
-        <source>Image (Ctrl+7) (I)</source>
-        <translation>图片 (Ctrl+7) (I)</translation>
-    </message>
-    <message>
         <source>Counter (Ctrl+8)</source>
         <translation>序号 (Ctrl+8)</translation>
     </message>
@@ -100,6 +96,10 @@
     <message>
         <source>Extract text</source>
         <translation>提取文本</translation>
+    </message>
+    <message>
+        <source>Image (Ctrl+7)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -158,6 +158,10 @@
     </message>
     <message>
         <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move the selected rectangular box</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -391,10 +395,6 @@ Reason Phrase: </source>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
-        <translation>您的当前版本已过时。请从 &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; 下载最新版本，或者联系开发者获取下载链接：&lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt;。</translation>
-    </message>
     <message>
         <source>Version Update</source>
         <translation>版本更新</translation>
@@ -831,6 +831,10 @@ Reason Phrase: </source>
         <source>Zulu</source>
         <translation>祖鲁语</translation>
     </message>
+    <message>
+        <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenShoter</name>
@@ -928,10 +932,6 @@ Reason Phrase: </source>
     <message>
         <source>Preview Clipboard</source>
         <translation>预览剪切板</translation>
-    </message>
-    <message>
-        <source>Quick Look</source>
-        <translation>快速预览</translation>
     </message>
     <message>
         <source>Transparent Input</source>

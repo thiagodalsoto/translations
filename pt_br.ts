@@ -54,10 +54,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Image (Ctrl+7) (I)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open Image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -100,6 +96,10 @@
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation type="unfinished">Copiar para área de transferência (Ctrl+C)</translation>
+    </message>
+    <message>
+        <source>Image (Ctrl+7)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -159,6 +159,10 @@
     <message>
         <source>TextLabel</source>
         <translation type="unfinished">Rótulo do Texto</translation>
+    </message>
+    <message>
+        <source>Move the selected rectangular box</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -390,10 +394,6 @@ Reason Phrase: </source>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
-        <translation>Sua versão atual está desatualizada. Baixe a versão mais recente em &lt;a href=&apos;https://sunny.xmuli.tech/&apos;&gt;https://sunny.xmuli.tech/&lt;/a&gt; ou entre em contato com o desenvolvedor em &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; para obter o link de download.</translation>
-    </message>
     <message>
         <source>Version Update</source>
         <translation>Atualização de Versão</translation>
@@ -830,6 +830,10 @@ Reason Phrase: </source>
         <source>Zulu</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenShoter</name>
@@ -974,10 +978,6 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Toggle Previews</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quick Look</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
