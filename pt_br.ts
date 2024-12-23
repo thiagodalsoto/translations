@@ -117,10 +117,6 @@
         <translation>Mova a área de recorte em 1 pixel</translation>
     </message>
     <message>
-        <source>-</source>
-        <translation>-</translation>
-    </message>
-    <message>
         <source>Shrink the selected rectangular area</source>
         <translation>Reduzir a área retangular selecionada</translation>
     </message>
@@ -129,16 +125,8 @@
         <translation>Ampliar a área retangular selecionada</translation>
     </message>
     <message>
-        <source>Tab</source>
-        <translation>Tab</translation>
-    </message>
-    <message>
         <source>Toggle between window detection and element detection</source>
         <translation>Alternar entre detecção de janela e detecção de elemento</translation>
-    </message>
-    <message>
-        <source>Ctrl</source>
-        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
@@ -1053,6 +1041,14 @@ Frase de razão:</translation>
         <source>Interface</source>
         <translation>Interface</translation>
     </message>
+    <message>
+        <source>Restart to apply after switching languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version : %1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubMenuBar</name>
@@ -1149,10 +1145,6 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
     <message>
         <source>day</source>
         <translation>dia</translation>
-    </message>
-    <message>
-        <source>:</source>
-        <translation>:</translation>
     </message>
     <message>
         <source>Test</source>
