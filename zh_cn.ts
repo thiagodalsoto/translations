@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
+        <translation>图片 (Ctrl+7)</translation>
     </message>
 </context>
 <context>
@@ -110,59 +110,47 @@
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>将鼠标指针移动 1 像素</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>将截屏区域移动 1像素</translation>
     </message>
     <message>
         <source>Shrink the selected rectangular area</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小选定的截图区域</translation>
     </message>
     <message>
         <source>Stretch the selected rectangular area</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸选定的截图区域</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>切换检测窗口/检测界面元素</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>设置截屏区域为当前屏幕/全屏</translation>
     </message>
     <message>
         <source>Show/Hide the capture mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>显示/隐藏捕获的鼠标指针</translation>
     </message>
     <message>
         <source>Copy the color value of magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>从放大镜中复制当前色值</translation>
     </message>
     <message>
         <source>Switch the color format of the magnifier to RGB/HEX/FLT</source>
-        <translation type="unfinished"></translation>
+        <translation>切换取色器的颜色格式 RGB/HEX/FLT</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Move the selected rectangular box</source>
-        <translation type="unfinished"></translation>
+        <translation>移动已选的截屏区域</translation>
     </message>
 </context>
 <context>
@@ -833,7 +821,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
-        <translation type="unfinished"></translation>
+        <translation>您的当前版本已过期。请访问 &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; 下载最新版本，或者通过邮件 &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; 联系开发者获取下载链接。</translation>
     </message>
 </context>
 <context>
@@ -1053,6 +1041,14 @@ Reason Phrase: </source>
         <source>Interface</source>
         <translation>界面</translation>
     </message>
+    <message>
+        <source>Version : %1 (%2)</source>
+        <translation>版本 : %1 (%2)</translation>
+    </message>
+    <message>
+        <source>Restart to apply after switching languages</source>
+        <translation>切换语言后，重启生效</translation>
+    </message>
 </context>
 <context>
     <name>SubMenuBar</name>
@@ -1155,10 +1151,6 @@ and specify -1 to let Sunny decide for you.</source>
         <translation>服务器</translation>
     </message>
     <message>
-        <source>:</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>测试</translation>
     </message>
@@ -1179,35 +1171,35 @@ and specify -1 to let Sunny decide for you.</source>
     <name>SystemInfo</name>
     <message>
         <source>Idx</source>
-        <translation type="unfinished"></translation>
+        <translation>序号</translation>
     </message>
     <message>
         <source>DevicePixelRatio</source>
-        <translation type="unfinished"></translation>
+        <translation>设备像素比</translation>
     </message>
     <message>
         <source>Logical DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>逻辑 DPI</translation>
     </message>
     <message>
         <source>Physical DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>物理 DPI</translation>
     </message>
     <message>
         <source>RefreshRate</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新率</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>可用区域</translation>
     </message>
     <message>
         <source>PhysicalSize</source>
-        <translation type="unfinished"></translation>
+        <translation>物理尺寸</translation>
     </message>
     <message>
         <source>VirtualGeometry</source>
-        <translation type="unfinished"></translation>
+        <translation>虚拟可用区域</translation>
     </message>
 </context>
 <context>

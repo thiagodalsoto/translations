@@ -117,10 +117,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Shrink the selected rectangular area</source>
         <translation type="unfinished"></translation>
     </message>
@@ -129,15 +125,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ctrl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1052,6 +1040,14 @@ Reason Phrase: </source>
         <source>Interface</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Version : %1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart to apply after switching languages</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubMenuBar</name>
@@ -1149,10 +1145,6 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
