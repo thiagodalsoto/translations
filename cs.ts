@@ -176,6 +176,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
+- [SITE] %1 [Image recognition engine using native offline]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Image Files(*.png);;Image Files(*.jpg);;Image Files(*.jpeg);;Image Files(*.bmp);;Image Files(*.gif);;All Files(*.*)</source>
         <translation type="unfinished"></translation>
     </message>

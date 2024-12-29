@@ -5,159 +5,173 @@
     <name>Capturer</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>截圖</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished">重啟</translation>
+        <translation>重啟</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">退出</translation>
+        <translation>退出</translation>
     </message>
 </context>
 <context>
     <name>ColorDialogButton</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇顏色</translation>
     </message>
 </context>
 <context>
     <name>EditingMenu</name>
     <message>
         <source>Rectangle (Ctrl+1)</source>
-        <translation type="unfinished">矩形 (Ctrl+1)</translation>
+        <translation>矩形 (Ctrl+1)</translation>
     </message>
     <message>
         <source>Ellipse (Ctrl+2)</source>
-        <translation type="unfinished">橢圓 (Ctrl+2)</translation>
+        <translation>橢圓 (Ctrl+2)</translation>
     </message>
     <message>
         <source>Arrow (Ctrl+3)</source>
-        <translation type="unfinished">箭頭 (Ctrl+3)</translation>
+        <translation>箭頭 (Ctrl+3)</translation>
     </message>
     <message>
         <source>Pencil (Ctrl+4) (B)</source>
-        <translation type="unfinished">畫筆 (Ctrl+4) (B)</translation>
+        <translation>畫筆 (Ctrl+4) (B)</translation>
     </message>
     <message>
         <source>Blur/Mosaic (Ctrl+5)</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊/馬賽克 (Ctrl+5)</translation>
     </message>
     <message>
         <source>Text (Ctrl+6) (T)</source>
-        <translation type="unfinished"></translation>
+        <translation>文字 (Ctrl+6) (T)</translation>
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
+        <translation>貼圖 (Ctrl+7)</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇圖片</translation>
     </message>
     <message>
         <source>Counter (Ctrl+8)</source>
-        <translation type="unfinished"></translation>
+        <translation>序號 (Ctrl+8)</translation>
     </message>
     <message>
         <source>Eraser (E)</source>
-        <translation type="unfinished"></translation>
+        <translation>橡皮檫 (E)</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished">翻譯</translation>
+        <translation>圖片翻譯</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished">提取文本</translation>
+        <translation>提取文字</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished">撤銷 (Ctrl+Z)</translation>
+        <translation>撤銷 (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation type="unfinished">重做 (Ctrl+Y)</translation>
+        <translation>重做 (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Cancel Capture (Esc)</source>
-        <translation type="unfinished">退出截圖 (Esc)</translation>
+        <translation>退出截圖 (Esc)</translation>
     </message>
     <message>
         <source>Pin to screen (P)</source>
-        <translation type="unfinished"></translation>
+        <translation>釘圖於螢幕 (P)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation type="unfinished">保存到文件 (Ctrl+S)</translation>
+        <translation>矩形 (Ctrl+1)
+橢圓 (Ctrl+2)
+箭頭 (Ctrl+3)
+畫筆 (Ctrl+4) (B)
+模糊/馬賽克 (Ctrl+5)
+文字 (Ctrl+6) (T)
+序號 (Ctrl+8)
+橡皮檫 (E)
+
+撤銷 (Ctrl+Z)
+重做 (Ctrl+Y)
+
+退出截圖 (Esc)
+釘圖於螢幕 (P)
+儲存到檔案 (Ctrl+S)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation type="unfinished">複製到剪切板 (Ctrl+C)</translation>
+        <translation>複製到剪下板 (Ctrl+C)</translation>
     </message>
 </context>
 <context>
     <name>GuideUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>將滑鼠指標移動 1 畫素</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>將截圖區域移動 1畫素</translation>
     </message>
     <message>
         <source>Shrink the selected rectangular area</source>
-        <translation type="unfinished"></translation>
+        <translation>縮小選定的截圖區域</translation>
     </message>
     <message>
         <source>Stretch the selected rectangular area</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸選定的截圖區域</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
+        <translation>切換檢測視窗/檢測介面元素</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>設定截圖區域為當前螢幕/全屏</translation>
     </message>
     <message>
         <source>Show/Hide the capture mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示/隱藏捕獲的滑鼠指標</translation>
     </message>
     <message>
         <source>Copy the color value of magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>從放大鏡中複製當前色值</translation>
     </message>
     <message>
         <source>Switch the color format of the magnifier to RGB/HEX/FLT</source>
-        <translation type="unfinished"></translation>
+        <translation>切換取色器的顏色格式 RGB/HEX/FLT</translation>
     </message>
     <message>
         <source>Move the selected rectangular box</source>
-        <translation type="unfinished"></translation>
+        <translation>移動已選的截圖區域</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">文字標籤</translation>
+        <translation>文字標籤</translation>
     </message>
 </context>
 <context>
     <name>ImageView</name>
     <message>
         <source>Load Image</source>
-        <translation>加載圖片</translation>
+        <translation>載入圖片</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -177,105 +191,110 @@
     </message>
     <message>
         <source>Image Files(*.png);;Image Files(*.jpg);;Image Files(*.jpeg);;Image Files(*.bmp);;Image Files(*.gif);;All Files(*.*)</source>
-        <translation>圖片文件 (*.png);;圖片文件 (*.jpg);;圖片文件 (*.jpeg);;圖片文件 (*.bmp);;圖片文件 (*.gif);;所有文件 (*.*)</translation>
+        <translation>圖片檔案 (*.png);;圖片檔案 (*.jpg);;圖片檔案 (*.jpeg);;圖片檔案 (*.bmp);;圖片檔案 (*.gif);;所有檔案 (*.*)</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation>保存圖片</translation>
+        <translation>儲存圖片</translation>
+    </message>
+    <message>
+        <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
+- [SITE] %1 [Image recognition engine using native offline]</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ImageWindow</name>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟圖片</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished">保存圖片</translation>
+        <translation>儲存圖片</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">複製</translation>
+        <translation>複製</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>貼上</translation>
     </message>
     <message>
         <source>Open Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟圖片...</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存為...</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>灰度圖</translation>
     </message>
     <message>
         <source>Inverse</source>
-        <translation type="unfinished"></translation>
+        <translation>反色</translation>
     </message>
     <message>
         <source>Rotate +90</source>
-        <translation type="unfinished"></translation>
+        <translation>旋轉 +90°</translation>
     </message>
     <message>
         <source>Rotate -90</source>
-        <translation type="unfinished"></translation>
+        <translation>旋轉 -90°</translation>
     </message>
     <message>
         <source>H Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻轉</translation>
     </message>
     <message>
         <source>V Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻轉</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>背景色</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>白色</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>灰色</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <source>Zoom : </source>
-        <translation type="unfinished"></translation>
+        <translation>縮放 : </translation>
     </message>
     <message>
         <source>Opacity : </source>
-        <translation type="unfinished"></translation>
+        <translation>透明度 : </translation>
     </message>
     <message>
         <source>Transparent Input</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入穿透</translation>
     </message>
     <message>
         <source>Recover</source>
-        <translation type="unfinished"></translation>
+        <translation>復原</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation>關閉</translation>
     </message>
 </context>
 <context>
     <name>Magnifier</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -288,7 +307,7 @@
         <source>
 Reason Phrase: </source>
         <translation>
-狀態描述: </translation>
+原因理由: </translation>
     </message>
     <message>
         <source>Warning</source>
@@ -296,31 +315,31 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Your Baidu Yun API Secret [ID Or Key] is empty, please check and re-enter it!</source>
-        <translation>你的百度雲 API 密鑰 [ID 或 Key] 為空，請檢查並重新輸入！</translation>
+        <translation>你的百度雲 API 金鑰 [ID 或 Key] 為空，請檢查並重新輸入！</translation>
     </message>
     <message>
         <source>Tencent cloud extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>騰訊雲的圖片提取文字</translation>
     </message>
     <message>
         <source>BaiDu cloud extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>百度雲的圖片提取文字</translation>
     </message>
     <message>
         <source>Tencent cloud image translate</source>
-        <translation type="unfinished"></translation>
+        <translation>騰訊雲的圖片翻譯</translation>
     </message>
     <message>
         <source>BaiDu cloud image translate</source>
-        <translation type="unfinished"></translation>
+        <translation>百度雲的圖片翻譯</translation>
     </message>
     <message>
         <source>YouDao cloud image translate</source>
-        <translation type="unfinished"></translation>
+        <translation>有道雲的圖片翻譯</translation>
     </message>
     <message>
         <source>NETWORK ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>網路錯誤</translation>
     </message>
 </context>
 <context>
@@ -378,7 +397,7 @@ Reason Phrase: </source>
     <name>PathEdit</name>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽</translation>
     </message>
 </context>
 <context>
@@ -821,240 +840,240 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
-        <translation type="unfinished"></translation>
+        <translation>您的當前版本已過期。請訪問 &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; 下載最新版本，或者透過郵件 &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; 聯絡開發者獲取下載連結。</translation>
     </message>
 </context>
 <context>
     <name>ScreenShoter</name>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished">保存圖片</translation>
+        <translation>儲存圖片</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">成功</translation>
+        <translation>成功</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished">失敗</translation>
+        <translation>失敗</translation>
     </message>
     <message>
         <source>Image save to %1</source>
-        <translation type="unfinished">圖片保存至 %1</translation>
+        <translation>圖片儲存至 %1</translation>
     </message>
 </context>
 <context>
     <name>SettingWindow</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">常規</translation>
+        <translation>通用</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished">界面</translation>
+        <translation>介面</translation>
     </message>
     <message>
         <source>OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>提取文字</translation>
     </message>
     <message>
         <source>Image Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>圖片翻譯</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished">輸出</translation>
+        <translation>輸出</translation>
     </message>
     <message>
         <source>Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷鍵</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">更新</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">關於</translation>
+        <translation>關於</translation>
     </message>
     <message>
         <source>Run on Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>開機自啟</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>語言</translation>
     </message>
     <message>
         <source>Settings File</source>
-        <translation type="unfinished"></translation>
+        <translation>設定檔案</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>跟隨系統</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>暗色</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>亮色</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>主題</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished">提取文本</translation>
+        <translation>提取文字</translation>
     </message>
     <message>
         <source>Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>引擎</translation>
     </message>
     <message>
         <source>Private account</source>
-        <translation type="unfinished"></translation>
+        <translation>私人賬號</translation>
     </message>
     <message>
         <source>If empty, use the default token.</source>
-        <translation type="unfinished"></translation>
+        <translation>若為空，則使用預設賬號。</translation>
     </message>
     <message>
         <source>Secret ID</source>
-        <translation type="unfinished"></translation>
+        <translation>金鑰 ID</translation>
     </message>
     <message>
         <source>Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>金鑰 Key</translation>
     </message>
     <message>
         <source>Source language</source>
-        <translation type="unfinished"></translation>
+        <translation>源語言</translation>
     </message>
     <message>
         <source>Target language</source>
-        <translation type="unfinished"></translation>
+        <translation>目標語言</translation>
     </message>
     <message>
         <source>Private Account</source>
-        <translation type="unfinished"></translation>
+        <translation>私人賬號</translation>
     </message>
     <message>
         <source>Tencent Cloud Language [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>騰訊雲支援語言 [%1]</translation>
     </message>
     <message>
         <source>BaiDu Cloud Language [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>百度雲支援語言 [%1]</translation>
     </message>
     <message>
         <source>YouDao Cloud Language [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>有道雲支援語言 [%1]</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>螢幕截圖</translation>
     </message>
     <message>
         <source>Repeat Last Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>重複上次截圖</translation>
     </message>
     <message>
         <source>Preview Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>預覽剪下板</translation>
     </message>
     <message>
         <source>Toggle Previews</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示/隱藏所有預覽</translation>
     </message>
     <message>
         <source>Transparent Input</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入穿透</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>圖片</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished">手動保存</translation>
+        <translation>手動儲存</translation>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation type="unfinished">快捷保存</translation>
+        <translation>快捷儲存</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation type="unfinished">自動保存</translation>
+        <translation>自動儲存</translation>
     </message>
     <message>
         <source>Select Quick Save Directory</source>
-        <translation type="unfinished">選擇快速保存目錄</translation>
+        <translation>選擇快速儲存的資料夾</translation>
     </message>
     <message>
         <source>Select Auto Save Directory</source>
-        <translation type="unfinished">選擇自動保存目錄</translation>
+        <translation>選擇自動儲存的資料夾</translation>
     </message>
     <message>
         <source>No Proxy</source>
-        <translation type="unfinished">不使用代理</translation>
+        <translation>不使用代理</translation>
     </message>
     <message>
         <source>System Proxy</source>
-        <translation type="unfinished">系统代理</translation>
+        <translation>系統代理</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished">啟動時檢查更新</translation>
+        <translation>啟動時檢查更新</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished">代理</translation>
+        <translation>代理</translation>
     </message>
     <message>
         <source>Check update</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查更新</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>外觀</translation>
     </message>
     <message>
         <source>Border Width</source>
-        <translation type="unfinished"></translation>
+        <translation>邊框寬度</translation>
     </message>
     <message>
         <source>Border Color</source>
-        <translation type="unfinished"></translation>
+        <translation>邊框顏色</translation>
     </message>
     <message>
         <source>Border Style</source>
-        <translation type="unfinished"></translation>
+        <translation>邊框風格</translation>
     </message>
     <message>
         <source>Mask Color</source>
-        <translation type="unfinished"></translation>
+        <translation>遮罩顏色</translation>
     </message>
     <message>
         <source>Version : %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>版本 : %1 (%2)</translation>
     </message>
     <message>
         <source>Restart to apply after switching languages</source>
-        <translation type="unfinished"></translation>
+        <translation>切換語言後，重啟生效</translation>
     </message>
 </context>
 <context>
     <name>SubMenuBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1068,20 +1087,20 @@ Reason Phrase: </source>
 Specify 0 to obtain small compressed files, 100 for large uncompressed files,
 and specify -1 to let Sunny decide for you.</source>
         <translation>範圍：[0,100] 或 -1.
-設為 0 可最大壓縮圖像，100 為完全不壓縮,
+設為 0 可最大壓縮影象，100 為完全不壓縮,
 設為 -1 讓 Sunny 為您決定。</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation>手動保存</translation>
+        <translation>手動儲存</translation>
     </message>
     <message>
         <source>Remeber last used image extension</source>
-        <translation>記住上一次使用的圖片擴展名</translation>
+        <translation>記住上一次使用的圖片副檔名</translation>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation>快捷保存</translation>
+        <translation>快捷儲存</translation>
     </message>
     <message>
         <source>Ctrl + Shift + S</source>
@@ -1093,39 +1112,39 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation>更改文件夾</translation>
+        <translation>更改資料夾</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>打開文件夾</translation>
+        <translation>開啟資料夾</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation>自動保存</translation>
+        <translation>自動儲存</translation>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation>所有截圖將會自動被保存到該文件夾。</translation>
+        <translation>所有截圖將會自動被儲存到該資料夾。</translation>
     </message>
     <message>
         <source>Image quality</source>
-        <translation type="unfinished"></translation>
+        <translation>影象質量</translation>
     </message>
     <message>
         <source>File name</source>
-        <translation type="unfinished"></translation>
+        <translation>檔名</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>路徑</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用</translation>
     </message>
 </context>
 <context>
@@ -1156,15 +1175,15 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Manual website download</source>
-        <translation>從官方網站下載</translation>
+        <translation>手動從官方網站下載</translation>
     </message>
     <message>
         <source>Proxy type</source>
-        <translation type="unfinished"></translation>
+        <translation>代理型別</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器</translation>
     </message>
 </context>
 <context>
@@ -1175,7 +1194,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>DevicePixelRatio</source>
-        <translation>設備像素比</translation>
+        <translation>裝置畫素比</translation>
     </message>
     <message>
         <source>Logical DPI</source>
@@ -1187,7 +1206,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>RefreshRate</source>
-        <translation>刷新率</translation>
+        <translation>重新整理率</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -1210,11 +1229,11 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>No Update</source>
-        <translation>沒有更新</translation>
+        <translation>已是最新版本</translation>
     </message>
     <message>
         <source>You are already on the latest version.</source>
-        <translation>您已經使用最新版本。</translation>
+        <translation>您已使用最新版本。</translation>
     </message>
     <message>
         <source>Request Limit</source>
@@ -1230,30 +1249,33 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Check For Update</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查更新</translation>
     </message>
     <message>
         <source>Network error occurred: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>網路發生錯誤：%1</translation>
     </message>
     <message>
         <source>Network URL Test</source>
-        <translation type="unfinished"></translation>
+        <translation>網路連結測試</translation>
     </message>
     <message>
         <source>Your version:   %1 (%2)
 Latest version: %3 (%5)
 Do you want to download it?</source>
-        <translation type="unfinished"></translation>
+        <translation>當前版本: %1 (%2)
+最新版本: %3 (%5)
+你想下載新版本嗎？</translation>
     </message>
     <message>
         <source>GitHub Network Test</source>
-        <translation type="unfinished"></translation>
+        <translation>測試 GitHub 網路的連通性</translation>
     </message>
     <message>
         <source>Down url results: %1
 (url: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>下載網址結果: %1
+(網址: %2)</translation>
     </message>
 </context>
 </TS>

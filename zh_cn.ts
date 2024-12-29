@@ -31,7 +31,7 @@
     <name>EditingMenu</name>
     <message>
         <source>Open Image</source>
-        <translation>打开图片</translation>
+        <translation>选择图片</translation>
     </message>
     <message>
         <source>Rectangle (Ctrl+1)</source>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Pin to screen (P)</source>
-        <translation>钉在屏幕上 (P)</translation>
+        <translation>钉图于屏幕 (P)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation>图片 (Ctrl+7)</translation>
+        <translation>贴图 (Ctrl+7)</translation>
     </message>
 </context>
 <context>
@@ -182,6 +182,12 @@
     <message>
         <source>Save Image</source>
         <translation>保存图片</translation>
+    </message>
+    <message>
+        <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
+- [SITE] %1 [Image recognition engine using native offline]</source>
+        <translation>當前使用的版本不支援離線 OCR，請到官方網站下載相應 CPU 或 GPU 版本的 DLL 庫，複製到程式所在的根目錄，然後重啟即可使用。
+- [網址] %1 [使用本地離線的圖片識別引擎篇]</translation>
     </message>
 </context>
 <context>
@@ -1230,7 +1236,7 @@ Latest version: %3 (%5)
 Do you want to download it?</source>
         <translation>当前版本: %1 (%2)
 最新版本: %3 (%5)
-你想下载它嘛？</translation>
+你想下载新版本吗？</translation>
     </message>
     <message>
         <source>No Update</source>
@@ -1250,7 +1256,7 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>GitHub Network Test</source>
-        <translation>GitHub 网络测试</translation>
+        <translation>测试 GitHub 网络的连通性</translation>
     </message>
     <message>
         <source>Down url results: %1
