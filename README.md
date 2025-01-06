@@ -40,7 +40,8 @@ When the text file *.ts is translated, I will merge it into the programme and re
 | Abbreviations | Name             | English Name        | Translator                                         |
 | ------------- | ---------------- | ------------------- | -------------------------------------------------- |
 | pt_br         | Português Brasil | Portuguese (Brazil) | [Thiago Dalsoto](https://github.com/thiagodalsoto) |
-| de            | Deutsch          | German              | [Kthargas](https://github.com/Kthargas)            |
+| de            | Deutsch          | German              | [Toms Photoart](https://github.com/tomsphotoart)   |
+| ja_jp         | 日本語           | Japanese            | [coolvitto](https://github.com/coolvitto)          |
 | zh_cn         | 简体中文         | Simplified Chinese  | -                                                  |
 | zh_tw         | 繁体中文         | Traditional Chinese | -                                                  |
 | en_us         | English          | English             | -                                                  |
@@ -57,8 +58,8 @@ Translation language should be written between `<translation>` and `</translatio
 : <source>Licenses</source>.
 
 
-https://github.com/SunnyScreenshot/translations/blob/112dae6bc7cbbd3d2753022ff77eebcabb99c33a/pt_br.ts#L7-L8
+https://github.com/SunnyCapturer/translations/blob/112dae6bc7cbbd3d2753022ff77eebcabb99c33a/pt_br.ts#L7-L8
 
-https://github.com/SunnyScreenshot/translations/blob/112dae6bc7cbbd3d2753022ff77eebcabb99c33a/zh_tw.ts#L7-L8
+https://github.com/SunnyCapturer/translations/blob/112dae6bc7cbbd3d2753022ff77eebcabb99c33a/zh_tw.ts#L7-L8
 
-https://github.com/SunnyScreenshot/translations/blob/112dae6bc7cbbd3d2753022ff77eebcabb99c33a/de.ts#L7-L8
+https://github.com/SunnyCapturer/translations/blob/112dae6bc7cbbd3d2753022ff77eebcabb99c33a/de.ts#L7-L8
