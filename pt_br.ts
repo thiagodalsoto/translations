@@ -833,7 +833,7 @@ Frase de razão:</translation>
     <name>ScreenShoter</name>
     <message>
         <source>Save Image</source>
-        <translation>SalvarImagem</translation>
+        <translation>Salvar Imagem</translation>
     </message>
     <message>
         <source>Success</source>
